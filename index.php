@@ -2,6 +2,7 @@
 	error_reporting(E_ALL);
     ini_set('display_errors',false);
 
+    // Задачи от https://task4developer.tilda.ws/backend-easy-task
     // Массив телефонов , распределенный по городам
     $phones = [
     	'москва' => '8-800-495-49-54',
@@ -132,6 +133,5 @@ div.footer {
 	left: 0;
 	bottom: 0;
 	width: 100%;
-	/*height: 80px;*/
 }
 </style>
